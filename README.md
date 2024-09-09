@@ -10,6 +10,16 @@ This project was developed as part of learning and implementing the Model-View-V
 - Reactive programming with RxJava
 - Fragment and Activity lifecycle management
 
+## Screenshots
+
+<p align="left">
+<img src="https://github.com/muhammedmustafageldi/My-ScreenShots-Files/blob/main/Screnshots/ContactsMvvm/contact1.png" width="360" height="760"/>
+<img src="https://github.com/muhammedmustafageldi/My-ScreenShots-Files/blob/main/Screnshots/ContactsMvvm/contact2.png" width="360" height="760"/> 
+<img src="https://github.com/muhammedmustafageldi/My-ScreenShots-Files/blob/main/Screnshots/ContactsMvvm/contact3.png" width="360" height="760"/> 
+<img src="https://github.com/muhammedmustafageldi/My-ScreenShots-Files/blob/main/Screnshots/ContactsMvvm/contact4.png" width="360" height="760"/> 
+<img src="https://github.com/muhammedmustafageldi/My-ScreenShots-Files/blob/main/Screnshots/ContactsMvvm/contact5.png" width="360" height="760"/> 
+</p>
+
 ## Key Components
 
 - **ViewModels:** Manage UI-related data and handle business logic.
