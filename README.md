@@ -13,11 +13,11 @@ This project was developed as part of learning and implementing the Model-View-V
 ## Screenshots
 
 <p align="left">
-<img src="https://github.com/muhammedmustafageldi/My-ScreenShots-Files/blob/main/Screnshots/ContactsMvvm/contact1.png" width="360" height="760"/>
-<img src="https://github.com/muhammedmustafageldi/My-ScreenShots-Files/blob/main/Screnshots/ContactsMvvm/contact2.png" width="360" height="760"/> 
-<img src="https://github.com/muhammedmustafageldi/My-ScreenShots-Files/blob/main/Screnshots/ContactsMvvm/contact3.png" width="360" height="760"/> 
-<img src="https://github.com/muhammedmustafageldi/My-ScreenShots-Files/blob/main/Screnshots/ContactsMvvm/contact4.png" width="360" height="760"/> 
-<img src="https://github.com/muhammedmustafageldi/My-ScreenShots-Files/blob/main/Screnshots/ContactsMvvm/contact5.png" width="360" height="760"/> 
+<img src="https://github.com/muhammedmustafageldi/My-ScreenShots-Files/blob/main/Screnshots/ContactsMvvm/contact1.png" width="240" height="506"/>
+<img src="https://github.com/muhammedmustafageldi/My-ScreenShots-Files/blob/main/Screnshots/ContactsMvvm/contact2.png" width="240" height="506"/> 
+<img src="https://github.com/muhammedmustafageldi/My-ScreenShots-Files/blob/main/Screnshots/ContactsMvvm/contact3.png" width="240" height="506"/> 
+<img src="https://github.com/muhammedmustafageldi/My-ScreenShots-Files/blob/main/Screnshots/ContactsMvvm/contact4.png" width="240" height="506"/> 
+<img src="https://github.com/muhammedmustafageldi/My-ScreenShots-Files/blob/main/Screnshots/ContactsMvvm/contact5.png" width="240" height="506"/> 
 </p>
 
 ## Key Components
