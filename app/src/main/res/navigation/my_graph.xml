@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/my_graph"
+    app:startDestination="@id/homePageFragment">
+
+    <fragment
+        android:id="@+id/homePageFragment"
+        android:name="com.swanky.contactsmvvm.framents.HomePageFragment"
+        android:label="fragment_home_page"
+        tools:layout="@layout/fragment_home_page" >
+        <action
+            android:id="@+id/action_homePageFragment_to_addContactActivity"
+            app:destination="@id/addContactActivity" />
+        <action
+            android:id="@+id/action_homePageFragment_to_detailsFragment"
+            app:destination="@id/detailsFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/detailsFragment"
+        android:name="com.swanky.contactsmvvm.framents.DetailsFragment"
+        android:label="fragment_details"
+        tools:layout="@layout/fragment_details" >
+        <argument
+            android:name="contact"
+            app:argType="com.swanky.contactsmvvm.models.Contact" />
+    </fragment>
+    <activity
+        android:id="@+id/addContactActivity"
+        android:name="com.swanky.contactsmvvm.activities.AddContactActivity"
+        android:label="activity_add_contact"
+        tools:layout="@layout/activity_add_contact" />
+</navigation>
